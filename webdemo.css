@@ -1,0 +1,281 @@
+#header{
+    width: 100%;
+    height: 40px;
+    background-color: #dc195b;
+    padding-left: 175px;
+}
+#homepage{
+    text-decoration: none;
+    color: #ffffff;
+    /* padding-left: 200px; */
+}
+#homepage:hover{
+    color: #f8ec30;
+}
+.head{
+    display: inline-block;
+    font-size: 14px;
+    padding-top: 8px;
+}
+#home{
+    /* margin-left: 180px; */
+    margin-right: 7px;
+    margin-bottom: 3px;
+}
+#sticky_header{
+    background-color: #000000;
+    width: 100%;
+    height: 105px;
+    position: sticky;
+    top: 0;
+    opacity: 0.75;
+}
+#logo{
+    width: 185px;
+    margin-left: 175px;
+    margin-bottom: 2px;
+    margin-top: 10px;
+    margin-right: 55px;
+    /* background-color: #ffffff; */
+    float: left;
+}
+#gioithieu{
+    color: #ffffff;
+    font-size: 14px;
+}
+#gioithieu:hover{
+    color: #f84730;
+    text-decoration: none;
+}
+#lienhe{
+    color: #ffffff;
+    font-size: 14px;
+    padding: 5px;
+}
+#lienhe:hover{
+    color: #f84730;
+    text-decoration: none;
+}
+.left_top{
+    padding-top: 17px;
+    display: inline-block;
+}
+.home_btn{
+    color: #ffffff;
+    font-size: 15.5px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    float: left;
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    height: 32px;
+}
+.home_btn:hover{
+    background-color: #dc195b;
+}
+.home_btn1{
+    color: #ffffff;
+    font-size: 15.5px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    float: left;
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    height: 32px;
+}
+.home_btn1:hover{
+    background-color: #dc195b;
+}
+.webshop{
+    color: #ffffff;
+    font-size: 15.5px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 22px;
+    float: left;
+    display: inline-block;
+}  
+.webshop:hover{
+    background-color: #dc195b;
+}
+#search_box{
+    margin-top: 11px;
+    margin-left: 10px;
+}
+#searchinput{
+    margin-left: 15px;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 15px;
+}
+#search_btn{
+    padding-top: 1px;
+    padding-bottom: 3px;
+    margin-left: 4px;
+    margin-top: 1px;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0 0 0 0;
+    border: 0;
+}
+#body{
+    height: 730px;
+    background-image: url("image/nen.png");
+}
+.thanhcongcu{
+    width: 100%;
+}
+.dropdown{
+    color: #ffffff;
+    padding-bottom: 0.1px;
+    padding-left: 15px;
+    font-size: 15.5px;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: black;
+    text-decoration: none;
+    width: 180px;
+    margin-left: 710px;
+    display: table;
+    display: none;
+}
+.dropdown:hover{
+    background-color: #dc195b;
+    text-decoration: none;
+}
+.home_btn1:hover .dropdown{
+    display: block;
+}
+#slogan{
+    margin-top: 30px;
+}
+#dangky_lbl{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Open Sans', Arial, Helvetica, Tahoma, sans-serif;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 520px;
+}
+#logo2{
+    margin-top: 10px;
+}
+#free{
+    display: inline-block;
+}
+.trigia{
+    font-size: 30px;
+    width: 540px;
+    display: inline-block;
+    margin-top: 30px;
+}
+.center{
+    text-align: center;
+}
+.goi{
+    text-align: center;
+    font-size: 25px;
+}
+.dangkyweb30s{
+    margin-top: 15px;
+    text-align: center;
+}
+.dangky_btn{
+    box-shadow: 0 0 0 0;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px;
+    background-color: #dc195b;
+}
+#under_body{
+    text-align: center;
+    margin-top: 20px;
+}
+.minhhoa_left{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+.minhhoa_right{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+#under_minhhoa{
+    width: 50%;
+    margin-bottom: 15px;
+}
+#footer{
+    background-color: #2b3a42;
+    height: 380px;
+}
+#udline_footer{
+    width: 1000px;
+    color: #ffffff;
+}
+#left_bottom{
+    width: 50%;
+    float: left;
+    padding-right: 40px;
+    margin-right: 30px;
+    border-right: 0.5px dashed #ffffff;
+}
+#right_bottom{
+    padding-right: 200px;
+}
+.btn-top{
+    background-image: url("image/arrow_up.png");
+    background-color: #44ac20;
+    background-repeat: no-repeat;
+    border: medium none;
+    bottom: 20px;
+    cursor: pointer;
+    display: none;
+    height: 50px;
+    outline: medium none;
+    padding: 0;
+    position: fixed;
+    right: 20px;
+    width: 50px;
+    z-index: 9999;
+    color: #ffffff;
+}
+.btn-top:hover{
+    background-color: #dc195b;
+}
+.footer_lbl{
+    float: left;
+    background-color: #dc195b;
+    color: #ffffff;
+    width: 25%;
+    height: 70px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+    border-left: 1px solid #ffffff;
+}
+.sticky_footer{
+    text-align: center;
+    background-color: #dc195b;
+    position: sticky;
+    position: -webkit-sticky;
+    bottom: 0;
+    outline: medium none;
+    cursor: pointer;
+    display: none;
+    background-repeat: no-repeat;
+    border: medium none;
+}
